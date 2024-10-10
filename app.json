@@ -22,7 +22,7 @@
       }
     },
     "web": {
-      "bundler": "metro",
+      "bundler": "webpack",  // Assuming you want to use webpack, change to "metro" if not
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
@@ -34,3 +34,4 @@
     }
   }
 }
+
