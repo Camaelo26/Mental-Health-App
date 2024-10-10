@@ -22,7 +22,7 @@
       }
     },
     "web": {
-      "bundler": "webpack",  // Assuming you want to use webpack, change to "metro" if not
+      "bundler": "webpack",  
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
